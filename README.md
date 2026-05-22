@@ -1,3 +1,7 @@
+## How to View
+Circuit photos are included for each lab. 
+No code to run — these are hardware implementations.
+
 # Digital Logic Labs — CSC 245
 Combinational logic circuit implementations built and tested on the ETD108ET digital trainer board at Lyon College.
 
@@ -26,6 +30,12 @@ f(W, X, Y, Z) = Σ(0, 1, 4, 7, 8, 12, 13, 15)
 - W, X, Y connected to select lines
 - D0 to D7 inputs set to match minterms
 - Fourth variable Z handled through additional logic
+
+## What I Learned
+- How multiplexers can replace traditional logic gates for Boolean functions
+- How to map a truth table directly to MUX select lines and data inputs
+- Difference between 4-to-1 and 8-to-1 multiplexer implementations
+- How to handle a fourth variable using additional logic on an 8-to-1 MUX
 
 ## Circuit Photo
 ![Multiplexer Circuit](multi.jpeg)
