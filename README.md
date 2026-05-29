@@ -63,3 +63,6 @@ Built a circuit to drive a 7-segment display using multiplexer logic on the ETD1
 - Converting truth tables into multiplexer-based implementations
 - Hands-on experience building and testing combinational circuits
 - Reading and verifying outputs with a logic probe
+
+## Course
+Digital Logic — CSC 245 — Lyon College
