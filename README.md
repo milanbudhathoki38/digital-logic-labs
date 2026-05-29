@@ -65,4 +65,4 @@ Built a circuit to drive a 7-segment display using multiplexer logic on the ETD1
 - Reading and verifying outputs with a logic probe
 
 ## Course
-Digital Logic — CSC 245 — Lyon College
+Digital Logic(CSC 245) — Lyon College
